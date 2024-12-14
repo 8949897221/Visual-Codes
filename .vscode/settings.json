@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp"
+    },
+    "a-file-icon-vscode.folderColor": "#727272",
+    "C_Cpp.errorSquiggles": "disabled"
+}
